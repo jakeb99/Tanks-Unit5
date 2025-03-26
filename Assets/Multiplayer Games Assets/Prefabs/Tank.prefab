@@ -131,6 +131,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc22b6d911d1a0844a5e137ec02b6d85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  chatPrefab: {fileID: 3539855805157006602, guid: 3f90aeee8cabf9f4fa5fb063d525882d,
+    type: 3}
   tankRigidbody: {fileID: 4040113818050352350}
   rotatingSpeed: 50
   movingSpeed: 100
